@@ -1,13 +1,11 @@
 💣 PROJETO FINAL - Bomba Relógio ⏳
 
-🚀 Desenvolvido por:
-📌 Ana Caroline Evangelista da Silva
-📌 João Vitor Ferreira Reis
-📌 Ycaro Rodrigo Rocha Santana
+🚀 Desenvolvido por: Ana Caroline Evangelista da Silva, João Vitor Ferreira Reis e Ycaro Rodrigo Rocha Santana.
 
 🎓 Disciplina: Laboratório de Circuitos Lógicos (LCL)
 👨‍🏫 Professor: Marcelo Grandi Mandelli
 🏛️ Universidade de Brasília (UnB)
+
 🛠️ Sobre o Projeto
 
 Este projeto consiste na implementação de uma bomba relógio digital 💣⏳, desenvolvido como parte da disciplina de Circuitos Lógicos. O sistema foi modelado e simulado utilizando o Quartus II v.13.0, permitindo a descrição, simulação e configuração de circuitos digitais. A implementação física foi realizada em uma placa DE2, baseada na tecnologia FPGA.
@@ -46,8 +44,4 @@ O objetivo principal do projeto é aplicar os conhecimentos adquiridos sobre cir
 🔹 Cronômetro Regressivo – Controla o tempo disponível para desbloqueio.
 🔹 Gerador de Senha – Permite ao usuário definir a senha com antecedência.
 
-📌 Tecnologias Utilizadas
-
-🔹 Quartus II v.13.0 – Para modelagem e simulação do circuito.
-🔹 Verilog – Para descrição do hardware digital.
-🔹 Placa DE2 (FPGA) – Para a implementação física do sistema.
+📌 Tecnologias Utilizadas: Quartus II v.13.0 – Para modelagem e simulação do circuito, Verilog – Para descrição do hardware digital e Placa DE2 (FPGA) – Para a implementação física do sistema.
