@@ -1,6 +1,6 @@
 💣 PROJETO FINAL - Bomba Relógio ⏳
 
-🚀 Desenvolvido por: Ana Caroline Evangelista da Silva, João Vitor Ferreira Reis e Ycaro Rodrigo Rocha Santana.
+🚀 Desenvolvido por: Ana Caroline Evangelista da Silva, João Vitor Ferreira Reis ( @joaov-freis )e Ycaro Rodrigo Rocha Santana.
 
 🎓 Disciplina: Laboratório de Circuitos Lógicos (LCL)
 👨‍🏫 Professor: Marcelo Grandi Mandelli
